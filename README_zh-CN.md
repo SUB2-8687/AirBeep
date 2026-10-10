@@ -1,6 +1,6 @@
 # AirBeep
 
-> 🌍 **Languages:** [English](./README.md) | 简体中文
+> 🌍 **Languages:** [English](./README.md) | 简体中文 | [한국어](./README_ko.md)
 
 AirBeep 是一款 iOS 工具，用于静音系统内置的通话录音提示音。只需拨动一个开关，即可将开始与结束提示音替换为等长静音；再次拨动开关，即可从自动备份中恢复原始文件。
 
