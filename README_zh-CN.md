@@ -1,6 +1,6 @@
 # AirBeep
 
-> 🌍 **Languages:** [English](./README.md) | 简体中文
+> 🌍 **Languages:** [English](./README.md) | 简体中文 | [한국어](./README_ko.md)
 
 AirBeep 是一款 iOS 工具，用于静音系统内置的通话录音提示音。只需拨动一个开关，即可将开始与结束提示音替换为等长静音；再次拨动开关，即可从自动备份中恢复原始文件。
 
@@ -25,7 +25,7 @@ AirBeep 会请求以下系统文件的容器级访问权限：
 ## 系统要求
 
 - 一台受支持的 iOS/iPadOS 系统的实体 iPhone 或 iPad：
-  - **iOS/iPadOS 27.0 – 27.2 B2**
+  - **iOS/iPadOS 18.0 – 27.2 B2**
 - 本地构建需 Xcode 27 或更高版本。
 - 仓库提供的 GitHub Actions 工作流可在云端构建 unsigned IPA。
 

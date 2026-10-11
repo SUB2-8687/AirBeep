@@ -1,6 +1,6 @@
 # AirBeep
 
-> 🌍 **Languages:** English | [简体中文 (Simplified Chinese)](./README_zh-CN.md)
+> 🌍 **Languages:** English | [简体中文 (Simplified Chinese)](./README_zh-CN.md) | [한국어 (Korean)](./README_ko.md)
 
 AirBeep is an iOS utility that silences the built-in call-recording disclosure tones. Flip one switch to replace the start and stop sounds with equal-length silence; flip it again to restore the original files from the automatic backup.
 
@@ -11,7 +11,7 @@ AirBeep is an iOS utility that silences the built-in call-recording disclosure t
 - Automatic backup of the original tone files before the first change — the backup is kept and never overwritten.
 - File read-back verification after every write.
 - One-tap restoration from the local backup.
-- English and Simplified Chinese UI.
+- English, Simplified Chinese and Korean UI.
 
 ## How it works
 
